@@ -4,6 +4,8 @@
 
 DrugSync is a deep learning model designed to predict potential drug-drug interactions (DDIs) using Graph Neural Networks (GNNs). DDIs can lead to serious adverse effects, especially in patients on chronic medications. DrugSync analyzes molecular structures and historical data to provide accurate predictions, aiding healthcare providers and patients in managing medication regimens.
 
+![Before Interaction](https://github.com/ArunAK111/DrugSync/blob/main/Images/Before_Interaction.png)
+
 ## Key Features
 
 - **Graph Neural Network (GNN) Model**: Utilizes GNNs to focus on substructure interactions derived from SMILES data, enabling targeted and efficient DDI predictions.
